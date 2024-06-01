@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi! 👋
 
 <!--
 **ayushenagpal/ayushenagpal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Ayushe, a recent graduate from the University of Illinois at Urbana-Champaign with a BS in Computer Science + Economics!
+
+🌱 I’m currently learning how to build RAG applications
+🔭 Seeking opportunities to build exciting projects in a dynamic challenging environment!
+📫 How to reach me: ayushenagpal@gmail.com
+
+
+
