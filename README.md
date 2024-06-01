@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm Ayushe, a recent graduate from the University of Illinois at Urbana-Champaign with a BS in Computer Science + Economics!
 
-🌱 I’m currently learning how to build RAG applications
+🌱 Currently learning how to build RAG applications
 
 🔭 Seeking opportunities to build exciting projects in a dynamic challenging environment!
 
