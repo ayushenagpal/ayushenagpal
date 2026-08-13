@@ -1,4 +1,4 @@
-## Hi! 👋
+## hi, i'm ayushe :)
 
 <!--
 **ayushenagpal/ayushenagpal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,13 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Ayushe, a recent graduate from the University of Illinois at Urbana-Champaign with a BS in Computer Science + Economics!
+software engineer in sf. i build ai infra systems @ google and a lot of things outside of it.
 
-🌱 Currently learning how to build RAG applications
+currently turning “wait, this would be cool” and “ugh, why doesn’t this exist?” into working prototypes.
 
-🔭 Seeking opportunities to build exciting projects in a dynamic challenging environment!
+when i'm not building, i'm probably biking somewhere, trying a new side quest, or documenting it on the internet.
 
-📫 How to reach me: ayushenagpal@gmail.com
-
-
+[website](ayushenagpal.com) · [linkedin](https://www.linkedin.com/in/ayushe-nagpal/)
 
